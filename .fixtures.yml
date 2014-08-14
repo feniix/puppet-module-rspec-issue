@@ -3,5 +3,8 @@ fixtures:
     stdlib:
       repo: 'git://github.com/puppetlabs/puppetlabs-stdlib.git'
       ref: '4.1.0'
+    apt:
+      repo: 'https://github.com/puppetlabs/puppetlabs-apt.git'
+      ref: '1.5.2'
   symlinks:
     poc: "#{source_dir}"

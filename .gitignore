@@ -1,3 +1,6 @@
+## FIXTURES
+spec/fixtures
+
 ## MAC OS
 .DS_Store
 
@@ -13,3 +16,6 @@ tmtags
 ## VIM
 *.swp
 tags
+
+## PUPPET MODULES
+pkg
